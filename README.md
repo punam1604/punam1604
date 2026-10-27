@@ -17,8 +17,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-# Modify → git add → git commit → git push
-# Add = changes select karo.
-# Commit = local repository mein record karo.
-# Push = GitHub par upload karo.
